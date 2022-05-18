@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
@@ -24,5 +25,9 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+=======
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+>>>>>>> 1cad2c6 (fir)
   </component>
 </project>
