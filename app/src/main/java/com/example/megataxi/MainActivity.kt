@@ -8,10 +8,6 @@ import com.example.megataxi.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
-    private var layoutManager: RecyclerView.LayoutManager? = null
-
-    private var adapter : RecyclerView.Adapter<RecyclerAdapter.ViewHolder>? = null
-
     lateinit var binding: ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -19,12 +15,6 @@ class MainActivity : AppCompatActivity() {
         val view = binding.root
         setContentView(view)
 
-        layoutManager = LinearLayoutManager(this)
-
-        binding.recycleView.layoutManager = layoutManager
-
-        adapter = RecyclerAdapter()
-        binding.recycleView.adapter = adapter
 
 
     }
