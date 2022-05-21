@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Mega_Taxi.iml" filepath="$PROJECT_DIR$/.idea/Mega_Taxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MegaTaxi.iml" filepath="$PROJECT_DIR$/.idea/modules/MegaTaxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MegaTaxi.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MegaTaxi.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MegaTaxi.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MegaTaxi.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MegaTaxi.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MegaTaxi.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MegaTaxi.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MegaTaxi.app.unitTest.iml" />
     </modules>
   </component>
 </project>

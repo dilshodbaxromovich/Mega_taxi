@@ -1,33 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/mega/AndroidStudioProjects/MegaTaxi/app/src/main/res/drawable/negativ_bnt.xml" value="0.492" />
-        <entry key="..\:/Users/mega/AndroidStudioProjects/MegaTaxi/app/src/main/res/drawable/positive_btn.xml" value="0.492" />
-        <entry key="..\:/Users/mega/AndroidStudioProjects/MegaTaxi/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.2597054886211513" />
-        <entry key="..\:/Users/mega/AndroidStudioProjects/MegaTaxi/app/src/main/res/layout-w936dp/activity_login.xml" value="0.303125" />
-        <entry key="..\:/Users/mega/AndroidStudioProjects/MegaTaxi/app/src/main/res/layout/activity_login.xml" value="0.4041666666666667" />
-        <entry key="..\:/Users/mega/AndroidStudioProjects/MegaTaxi/app/src/main/res/layout/activity_login_page.xml" value="0.4041666666666667" />
-        <entry key="..\:/Users/mega/AndroidStudioProjects/MegaTaxi/app/src/main/res/layout/activity_main.xml" value="0.5541666666666667" />
-        <entry key="..\:/Users/mega/AndroidStudioProjects/MegaTaxi/app/src/main/res/layout/diolog_order.xml" value="0.42481884057971014" />
-        <entry key="..\:/Users/mega/AndroidStudioProjects/MegaTaxi/app/src/main/res/layout/diolog_task.xml" value="0.5" />
-        <entry key="..\:/Users/mega/AndroidStudioProjects/MegaTaxi/app/src/main/res/layout/fragment_blank.xml" value="0.5401041666666667" />
-        <entry key="..\:/Users/mega/AndroidStudioProjects/MegaTaxi/app/src/main/res/layout/item_not.xml" value="0.4" />
-        <entry key="..\:/Users/mega/AndroidStudioProjects/MegaTaxi/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2365" />
-        <entry key="..\:/Users/mega/AndroidStudioProjects/MegaTaxi/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2365" />
+        <entry key="..\:/Users/MegaSoft/AndroidStudioProjects/Mega_Taxi/app/src/main/res/layout/activity_login_page.xml" value="0.18541666666666667" />
       </map>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/build/classes" />
-  </component>
-  <component name="ProjectType">
-    <option name="id" value="Android" />
-=======
-  <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
->>>>>>> 1cad2c6 (fir)
   </component>
 </project>
